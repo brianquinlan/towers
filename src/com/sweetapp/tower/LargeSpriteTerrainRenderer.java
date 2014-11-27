@@ -1,26 +1,17 @@
 package com.sweetapp.tower;
 
-import java.util.List;
-
-import javax.microedition.khronos.opengles.GL10;
-
-import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.Canvas;
-import android.graphics.Point;
-import android.graphics.Rect;
 
 public class LargeSpriteTerrainRenderer {
-	/*
+  /*
 	private final int FOREST = 0;
 	private final int ROAD = 1;
-	private final int WATER = 2;	
-	private final int MOUNTAIN = 3;	
-	private final int GRASS = 4;	
+	private final int WATER = 2;
+	private final int MOUNTAIN = 3;
+	private final int GRASS = 4;
 
 	final GameRenderer coordinateMapper;
 	final Context context;
-	
+
 	private Sprite backgroundSprite = null;
 
 	public LargeSpriteTerrainRenderer(Context context, Pitch pitch, GameRenderer coordinateMapper) {
@@ -75,5 +66,5 @@ public class LargeSpriteTerrainRenderer {
 
 //		backgroundSprite.draw(gl, new Point(-viewOffsetX, -viewOffsetY));
 	}
-	*/
+   */
 }

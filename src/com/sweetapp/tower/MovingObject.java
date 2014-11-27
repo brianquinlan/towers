@@ -4,7 +4,7 @@ import android.graphics.PointF;
 
 public abstract class MovingObject {
 
-	public abstract PointF getCell();
+  public abstract PointF getCell();
 
-	abstract void advanceTime(float t);
+  abstract void advanceTime(float t);
 }
